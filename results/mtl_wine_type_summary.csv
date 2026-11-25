@@ -1,0 +1,6 @@
+,RMSE,RMSE,Type accuracy,Type accuracy
+,mean,std,mean,std
+model,,,,
+"Single-task, with is_red",0.6930983379300033,0.01385718359503041,,
+"Single-task, without is_red",0.6969257172391746,0.011504611752823182,,
+"Multi-task (score + wine type), without is_red",0.6908214106254222,0.009260123413049022,0.9954887218045112,0.0007863346114041872

@@ -1,0 +1,13 @@
+model,sentiment,temperature,text
+LSTM,pos,0.5,i have to be a hard film with a great movie i was very disappointed that i was found to see it i was a good movie the acting was
+LSTM,pos,1.0,birth ! sunshine and the many performance with love ground my other sexual black book still filled by the colorful show is being its videos it suffers the actual impression
+LSTM,pos,1.5,birth ! sunshine lends carson many criminals ambition love ground my thing differently brenda book cathy filled explains terms how dies george errol radiation videos provides hurt word actual impression
+LSTM,neg,0.5,i have to be a hard film with a movie that i was very disappointed that i was disappointed to get it for a lot of a word i was
+LSTM,neg,1.0,first ! my name who did it will love me my thing the british book is filled by the rest of us being its videos it suffers word around an
+LSTM,neg,1.5,birth ! sunshine lends carson many hoping rather love ground my thing differently tom book cathy filled explains terms how dies george errol radiation videos freaking hurt word actual impression
+Mini-GPT,pos,0.5,i saw this film on the map i love the cinema i was very disappointed that the movie was very good and the acting was great ! the acting was
+Mini-GPT,pos,1.0,three musicals sunshine and animation to be rather watchable in my opinion the short book that virtually users of how promises us westerns was videos to hurt the actual girl
+Mini-GPT,pos,1.5,birth musicals sunshine rambo carson many talented ambition love carnage my eyes is tom carey cathy virtually must've dealt with his name errol radiation videos freaking hurt word actual girl
+Mini-GPT,neg,0.5,i can't believe i watched this film with my friend and i was watching it i was so disappointed i was not expecting a good movie with the actual jokes
+Mini-GPT,neg,1.0,first of all i watched many times with love zombies my expectations i am glad that bad movies strongly sadly however i got its videos freaking down the actual impression
+Mini-GPT,neg,1.5,birth directors without rambo carson many staple ambition love ground my eyes differently brenda carey cathy virtually must've found how promises us errol radiation videos freaking ! word actual girl

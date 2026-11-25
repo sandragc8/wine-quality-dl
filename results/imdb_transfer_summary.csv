@@ -1,0 +1,16 @@
+strategy,n,mean,std,count
+Dense from scratch,100,0.6158333333333333,0.02183078865578003,3
+CNN from scratch,100,0.5831666666666666,0.046325838722394846,3
+Dense from scratch,500,0.7316666666666668,0.009699656351300996,3
+CNN from scratch,500,0.741,0.008046738469715538,3
+Dense from scratch,2000,0.7848333333333333,0.009928914005737656,3
+CNN from scratch,2000,0.8043333333333335,0.003547299442298772,3
+DistilBERT features + logistic regression,100,0.7785,,1
+DistilBERT features + logistic regression,500,0.7995,,1
+DistilBERT features + logistic regression,2000,0.833,,1
+DistilBERT fine-tuning,100,0.722,,1
+DistilBERT fine-tuning,500,0.8075,,1
+DistilBERT fine-tuning,2000,0.866,,1
+Dense from scratch,20000,0.8626666666666667,0.0025658007197234514,3
+CNN from scratch,20000,0.8643333333333333,0.0020207259421636987,3
+Zero-shot (no labels),0,0.656,,1

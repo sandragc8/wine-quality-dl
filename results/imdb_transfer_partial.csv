@@ -1,0 +1,25 @@
+strategy,n,seed,test accuracy,seconds
+Dense from scratch,100,42,0.6245,
+Dense from scratch,100,43,0.632,
+Dense from scratch,100,44,0.591,
+CNN from scratch,100,42,0.5315,
+CNN from scratch,100,43,0.621,
+CNN from scratch,100,44,0.597,
+Dense from scratch,500,42,0.7205,
+Dense from scratch,500,43,0.738,
+Dense from scratch,500,44,0.7365,
+CNN from scratch,500,42,0.7495,
+CNN from scratch,500,43,0.74,
+CNN from scratch,500,44,0.7335,
+Dense from scratch,2000,42,0.777,
+Dense from scratch,2000,43,0.7815,
+Dense from scratch,2000,44,0.796,
+CNN from scratch,2000,42,0.8005,
+CNN from scratch,2000,43,0.805,
+CNN from scratch,2000,44,0.8075,
+DistilBERT features + logistic regression,100,42,0.7785,
+DistilBERT features + logistic regression,500,42,0.7995,
+DistilBERT features + logistic regression,2000,42,0.833,
+DistilBERT fine-tuning,100,42,0.722,39.88416600227356
+DistilBERT fine-tuning,500,42,0.8075,81.47598004341125
+DistilBERT fine-tuning,2000,42,0.866,369.96623396873474

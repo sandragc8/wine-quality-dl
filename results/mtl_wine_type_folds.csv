@@ -1,0 +1,16 @@
+fold,model,RMSE,Type accuracy
+1,"Single-task, with is_red",0.6929699722985885,
+1,"Single-task, without is_red",0.7003908925226848,
+1,"Multi-task (score + wine type), without is_red",0.6929432916279172,0.9953007518796992
+2,"Single-task, with is_red",0.6865048321278622,
+2,"Single-task, without is_red",0.6943203158881806,
+2,"Multi-task (score + wine type), without is_red",0.6901971820020503,0.9962406015037594
+3,"Single-task, with is_red",0.6985408182276914,
+3,"Single-task, without is_red",0.7015750690199241,
+3,"Multi-task (score + wine type), without is_red",0.692997757534674,0.9943609022556391
+4,"Single-task, with is_red",0.7123680675775804,
+4,"Single-task, without is_red",0.7095633131873381,
+4,"Multi-task (score + wine type), without is_red",0.7017637278816351,0.9962406015037594
+5,"Single-task, with is_red",0.6751079994182941,
+5,"Single-task, without is_red",0.6787789955777456,
+5,"Multi-task (score + wine type), without is_red",0.6762050940808346,0.9953007518796992
